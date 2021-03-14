@@ -5,7 +5,7 @@ import matplotlib.image as mpimg
 import numpy as np
 
 # Read in the image and print out some stats
-image = mpimg.imread('lane1.jpg')
+image = mpimg.imread('../images/freeway.jpg')
 print('This image is: ',type(image),
          'with dimensions:', image.shape)
 

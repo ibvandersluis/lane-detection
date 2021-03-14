@@ -5,7 +5,7 @@ import matplotlib.image as mpimg
 import numpy as np
 
 # Read in the image
-image = mpimg.imread('lane1.jpg')
+image = mpimg.imread('../images/freeway.jpg')
 
 # Grab the x and y size and make a copy of the image
 ysize = image.shape[0]
