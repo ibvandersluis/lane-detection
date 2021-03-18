@@ -24,4 +24,6 @@ Navigate to the `project/` directory and run
 jupyter notebook
 ```
 
+Then open P1.ipynb.
+
 Find the writeup for the project [here](./project/writeup.md).
