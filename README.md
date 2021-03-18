@@ -14,6 +14,14 @@ And after the pipeline I will produce an image like this, with annotade lane mar
 
 ![Image after pipeline](./project/test_images_output/solidWhiteCurve_out.jpg)
 
-Some basic scripts from the lessons and exercises are located in [`scripts/`](./scripts). The images used for those scripts are found in [`images/`](./scripts). The project, started from the project repository [here](), is found in [`project/`](./project).
+Some basic scripts from the lessons and exercises are located in [`scripts/`](./scripts). The images used for those scripts are found in [`images/`](./scripts). The project, started from the project Udacity repository [here](https://github.com/udacity/CarND-LaneLines-P1), is found in [`project/`](./project).
+
+## Launching the Project
+
+Navigate to the `project/` directory and run
+
+```bash
+jupyter notebook
+```
 
 Find the writeup for the project [here](./project/writeup.md).
